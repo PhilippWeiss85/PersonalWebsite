@@ -106,3 +106,12 @@ body {
   font-family: Poppins, Arial, Helvetica, sans-serif;
   background-color: lightgrey;
 }
+
+nav {
+  float: left;
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding-right: 0;
+  width: 100%;
+}
