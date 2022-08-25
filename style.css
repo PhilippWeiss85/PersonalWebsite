@@ -97,3 +97,8 @@
     /* Safari, Android, iOS */
       url("fonts/poppins-v20-latin-700italic.svg#Poppins") format("svg"); /* Legacy iOS */
 }
+
+* {
+  box-sizing: border-box;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+}
